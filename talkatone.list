@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,inmobi.com,talkatone
 DOMAIN-SUFFIX,crashlytics.com,talkatone
 DOMAIN-SUFFIX,talkatone.com,talkatone
 DOMAIN-SUFFIX,kochava.com,talkatone
-# 这个域名最好走代理，我这边直连已超时
 DOMAIN-SUFFIX,tktn.be,talkatone
 DOMAIN-SUFFIX,cohere.com,talkatone
 DOMAIN-SUFFIX,ip-api.com,talkatone
