@@ -22,7 +22,7 @@ HOST,developer.apple.com,Proxy
 HOST,lens.l.google.com,Proxy
 HOST,location.microsoft.com,Proxy
 HOST,login.microsoftonline.com,Proxy
-HOST,openaiapi-site.azureedge.net,OpenAI
+#HOST,openaiapi-site.azureedge.net,OpenAI
 HOST,p16-tiktokcdn-com.akamaized.net,Proxy
 HOST,self.events.data.microsoft.com,Proxy
 HOST,testflight.apple.com,Proxy
@@ -958,7 +958,7 @@ HOST-SUFFIX,changsa.net,Proxy
 HOST-SUFFIX,channelnewsasia.com,Proxy
 HOST-SUFFIX,chaoex.com,Proxy
 HOST-SUFFIX,chapm25.com,Proxy
-HOST-SUFFIX,chat.openai.com,OpenAI
+#HOST-SUFFIX,chat.openai.com,OpenAI
 HOST-SUFFIX,chatnook.com,Proxy
 HOST-SUFFIX,chaturbate.com,Proxy
 HOST-SUFFIX,checkgfw.com,Proxy
